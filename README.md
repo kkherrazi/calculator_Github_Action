@@ -3,6 +3,6 @@ Python program for adding, subtracting, multiplying, and dividing integers.
 
 ## CI/CD
 
-- Run tests with [Pytest](https://docs.pytest.org/)
-- Check code quality with [Flake8](https://flake8.pycqa.org)
-- Use [GitHub Actions](https://github.com/features/actions) to automate Commit/Push workflows@
+- Tests with [Pytest](https://docs.pytest.org/)
+- Code quality check with [Flake8](https://flake8.pycqa.org)
+- Uses [GitHub Actions](https://github.com/features/actions) to automate Commit/Push workflows@
